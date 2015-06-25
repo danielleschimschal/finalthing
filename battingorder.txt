@@ -1,0 +1,4 @@
+#   First:    Last:         Batting Avg:  
+1   Brad      Miller        0.23          
+2   Kyle      Seager        0.271         
+3   Nelson    Cruz          0.315         

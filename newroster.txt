@@ -1,0 +1,27 @@
+First:    Last:         Batting Avg:  Position: Number:   
+Bob       H             0.234         Infield   2         
+Nelson    Cruz          0.315         Outfield  23        
+Kyle      Seager        0.271         Infield   15        
+Austin    Jackson       0.261         Outfield  16        
+Seth      Smith         0.257         DH        7         
+Logan     Morrison      0.251         Infield   20        
+Robinson  Cano          0.245         Infield   22        
+Brad      Miller        0.23          Infield   5         
+Mark      Trumbo        0.188         Outfield  35        
+Dustin    Ackley        0.184         Outfield  13        
+Willie    Bloomquist    0.167         Infield   8         
+Mike      Zunino        0.16          Catcher   3         
+Jesus     Sucre         0.05          Catcher   2         
+Taijuan   Walker        0             Pitcher   32        
+J.A.      Happ          0             Pitcher   33        
+Joe       Beimel        0             Pitcher   97        
+Fernando  Rodney        0             Pitcher   56        
+Felix     Hernandez     0             Pitcher   34        
+Mark      Lowe          0             Pitcher   57        
+Mike      Montgomery    0             Pitcher   37        
+Tom       Wilhelmsen    0             Pitcher   54        
+Charlie   Furbush       0             Pitcher   41        
+Carson    Smith         0             Pitcher   39        
+Vidal     Nuno          0             Pitcher   38        
+Roenis    Elias         0             Pitcher   29        
+Roenis    Elias         0             Pitcher   29        
